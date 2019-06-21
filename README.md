@@ -7,3 +7,6 @@
 
 ## Year
 List of open-source EDA projects sorted by starting year
+
+### 1999
+-[ngspice](https://github.com/imr/ngspice)
