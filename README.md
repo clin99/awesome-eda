@@ -17,7 +17,7 @@
 * [2017](#2017) 
 * [2018](#2018) 
 * [2019](#2019) 
-
+* [Summary](#summary)
 
 
 ## Year
@@ -80,6 +80,7 @@ List of open-source EDA projects sorted by starting year
 * [Lgraph](https://github.com/masc-ucsc/lgraph)
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton)
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+* [Parser-SPEF](https://github.com/OpenTimer/Parser-SPEF)
 * [DATCRobustDesignFlow](https://github.com/jinwookjungs/datc_robust_design_flow)
 * [EPFLLogicSynthesisLibraries](https://github.com/lsils/lstools-showcase?)
 * [OpenSTA](https://github.com/abk-openroad/OpenSTA)
@@ -141,8 +142,8 @@ List of open-source EDA projects sorted by starting year
 | [2015](#2015) | 3  | 16 | 
 | [2016](#2016) | 4  | 20 | 
 | [2017](#2017) | 5  | 25 | 
-| [2018](#2018) | 27  | 52 | 
-| [2019](#2019) | 14  | 66 | 
+| [2018](#2018) | 28  | 53 | 
+| [2019](#2019) | 14  | 67 | 
 
 
 

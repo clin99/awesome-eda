@@ -1,0 +1,67 @@
+ngspice,1999,https://github.com/imr/ngspice
+xyce,2002,https://xyce.sandia.gov/
+Hierarchical Asynchronous Circuit Kompiler Toolkit,2004,https://github.com/fangism/hackt
+Berkeley-abc,2005,https://github.com/berkeley-abc/abc
+CVC4,2009,https://github.com/CVC4/CVC4
+Galois Parallel Framework,2010,https://github.com/IntelligentSoftwareSystems/Galois
+Asynchronous Circuit Compiler,2011,https://github.com/asyncvlsi/act
+PyMTL,2012,https://github.com/cornell-brg/pymtl
+Yosys,2012,https://github.com/YosysHQ/yosys
+Verilog to Routing -- Open Source CAD Flow for FPGA Research,2012,https://github.com/verilog-to-routing/vtr-verilog-to-routing
+Qrouter,2013,http://opencircuitdesign.com/qrouter/
+Graywolf,2014,https://github.com/rubund/graywolf
+Limbo,2014,https://github.com/limbo018/Limbo
+OpenTimer,2015,https://github.com/OpenTimer/OpenTimer
+Ophidian,2015,https://gitlab.com/eclufsc/ophidian
+OpenMPL,2015,https://github.com/limbo018/OpenMPL
+A Modeling and Verification Platform for SoCs using ILAs,2016,https://github.com/Bo-Yuan-Huang/ILAng
+SystemC TLM Interfaces,2016,https://github.com/Xilinx/libsystemctlm-soc
+Mixed Hardware/Software Emulation,2016,https://github.com/Xilinx/systemctlm-cosim-demo
+Global Router,2016,https://github.com/krzhu/BoxRouter
+Rsync,2017,https://github.com/RsynTeam/rsyn-x
+Cloud-V,2017,https://github.com/Cloud-V
+HAMMER: Highly Agile Masks Made Effortlessly from RTL,2017,https://github.com/ucb-bar/hammer
+Magic,2017,https://github.com/libresilicon/magic-8.2
+GDS Viewer,2017,https://github.com/KLayout/klayout
+Lgraph,2018,https://github.com/masc-ucsc/lgraph
+OpenPiton,2018,https://github.com/PrincetonUniversity/openpiton
+Cpp-Taskflow,2018,https://github.com/cpp-taskflow/cpp-taskflow
+Parser-SPEF,2018,https://github.com/OpenTimer/Parser-SPEF
+DATC Robust Design Flow,2018,https://github.com/jinwookjungs/datc_robust_design_flow
+EPFL Logic Synthesis Libraries,2018,https://github.com/lsils/lstools-showcase?
+OpenSTA,2018,https://github.com/abk-openroad/OpenSTA
+RePlace,2018,https://github.com/abk-openroad/RePlAce
+TritoCTS,2018,https://github.com/abk-openroad/TritonCTS
+TritonSizer,2018,https://github.com/abk-openroad/TritonSizer
+BSD-DME,2018,https://github.com/abk-openroad/BST-DME
+CoreIR Symbolic Analyzer,2018,https://github.com/cristian-mattarei/CoSA
+AXI Protocol Checker,2018,https://github.com/upscale-project/case-studies/tree/master/axi
+A framework for FPGA emulation of mixed-signal systems,2018,https://github.com/sgherbst/anasymod
+"Tools regarding on analog modeling, validation, and generation",2018,https://github.com/StanfordVLSI/DaVE
+Open-source FPGA Workflow,2018,https://github.com/PrincetonUniversity/prga
+OpenFPGA,2018,https://github.com/LNIS-Projects/OpenFPGA
+65nm RAIL Library,2018,https://github.com/rail-posh/rail65
+12nm RAIL library,2018,https://github.com/rail-posh/rail12
+University of Washington (RISC-V),2018,https://github.com/black-parrot/pre-alpha-release
+1G/100M/10M Ethernet,2018,https://github.com/lewiz-support/LMAC_CORE1
+10G/5G/2.5G/1G,2018,https://github.com/lewiz-support/LMAC_CORE2
+Detailed Placement,2018,https://github.com/sanggido/OpenDP
+University of Minnesota / Intel (Automated Analog Layout),2018,https://github.com/ALIGN-analoglayout/ALIGN-public
+Purdue (Parasitic Extraction),2018,https://github.com/purdue-onchip/gds2Para
+University of Utah (Logic Synthesis),2018,https://github.com/LNIS-Projects/LSOracle
+JITX (Intent Driven Board Design),2018,https://github.com/JITx-Inc/darpa-idea
+The EPFL Combinational Benchmark Suite,2018,https://github.com/lsils/benchmarks
+Serial Link Mixed Signal Modeling,2019,https://github.com/upscale-project/hslink_phy
+Analog Known Good Designs,2019,https://github.com/USCPOSH/AMS_KGD
+Circuit IP Sanitizer,2019,https://github.com/USCPOSH/Sanitizer
+Analog Parameter Search Engine,2019,https://github.com/USCPOSH/AMPSE
+Brown (Open Source PVT Sensors),2019,https://github.com/scale-lab/PVTsensors
+UW-IDEA_AnalogTestCases,2019,https://github.com/uwidea/UW-IDEA_AnalogTestCases
+System Verilog to Verilog,2019,https://github.com/umich-cadre/sv2v
+Asynchronous Memory Compiler,2019,https://github.com/asyncvlsi/AMC
+University of Michigan (Intent Driven Analog Design),2019,https://github.com/idea-fasoc/datasheet-scrubber
+Machine Generated Analog IC Layout,2019,https://github.com/magical-eda/MAGICAL
+Magical Test Circuits,2019,https://github.com/magical-eda/MAGICAL-CIRCUITS
+UW BSG Pipecleaner Suite,2019,https://github.com/bespoke-silicon-group/bsg_pipeclean_suite
+OpenPiton Design Benchmark,2019,https://github.com/PrincetonUniversity/OPDB
+System Verilog to Verilog,2019,https://github.com/bespoke-silicon-group/bsg_sv2v
