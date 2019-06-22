@@ -1,5 +1,6 @@
 # Awesome Open Source EDA Projects
-> A curated list of awesome EDA open source projects.
+> A curated list of awesome EDA open source projects. 
+Please feel free to update this page through [submitting pull requests][GitHub pull requests] or [emailing me][email me].
 
 ## Table of Contents
 * [1999](#1999) 
@@ -17,11 +18,11 @@
 * [2017](#2017) 
 * [2018](#2018) 
 * [2019](#2019) 
-* [Summary](#summary)
+* [Summary](#summary) 
+* [Reference](#reference)
 
 
-## Year
-List of open-source EDA projects sorted by starting year
+## Projects (sorted by year)
 
 ### 1999
 * [ngspice](https://github.com/imr/ngspice)
@@ -121,8 +122,7 @@ List of open-source EDA projects sorted by starting year
 * [UW BSG Pipecleaner Suite](https://github.com/bespoke-silicon-group/bsg_pipeclean_suite)
 * [OpenPiton Design Benchmark](https://github.com/PrincetonUniversity/OPDB)
 * [System Verilog to Verilog](https://github.com/bespoke-silicon-group/bsg_sv2v)
-
-
+* [Utd-SystemVerilog](https://github.com/billswartz7/utd-SystemVerilog)
 
 
 ## Summary
@@ -143,7 +143,27 @@ List of open-source EDA projects sorted by starting year
 | [2016](#2016) | 4  | 20 | 
 | [2017](#2017) | 5  | 25 | 
 | [2018](#2018) | 28  | 53 | 
-| [2019](#2019) | 14  | 67 | 
+| [2019](#2019) | 15  | 68 | 
 
+
+## Reference
+* T.-W. Huang, C.-X. Lin, G. Guo, and Martin D. F. Wong, [Essential Building Blocks for Creating an Open-source EDA Project][DAC19 paper], ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, 2019.
+* [Essential Building Blocks for Creating an Open-source EDA Project][DAC19 slides]. Invited talk at DAC.
+* [DARPA Intelligent Design of Electronic Assets (IDEA)][DARPA IDEA] 
+* [DARPA Posh Open Source Hardware (POSH)][DARPA POSH]
+* [List of IDEA Projects][DARPA IDEA GitHub] 
+* [List of POSH Projects][DARPA POSH GitHub]
+
+
+* * *
+
+[GitHub pull requests]:  https://github.com/clin99/awesome-eda/pulls
+[email me]:              mailto:twh760812@gmail.com 
+[DAC19 slides]:          https://tsung-wei-huang.github.io/talk/dac19-invited.pdf 
+[DAC19 paper]:           https://tsung-wei-huang.github.io/papers/dac19-invited.pdf
+[DARPA IDEA]:            https://www.darpa.mil/program/intelligent-design-of-electronic-assets  
+[DARPA POSH]:            https://www.darpa.mil/program/posh-open-source-hardware
+[DARPA IDEA GitHub]:     https://github.com/aolofsson/IDEA 
+[DARPA POSH GitHub]:     https://github.com/aolofsson/POSH
 
 
