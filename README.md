@@ -97,7 +97,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [AXI Protocol Checker](https://github.com/upscale-project/case-studies/tree/master/axi)
 * [CoreIR Symbolic Analyzer](https://github.com/cristian-mattarei/CoSA)
 * [Open-source FPGA Workflow](https://github.com/PrincetonUniversity/prga)
-* [OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA)
+* [FPGA-SPICE](https://github.com/LNIS-Projects/OpenFPGA)
 * [Tools regarding on analog modeling, validation, and generation](https://github.com/StanfordVLSI/DaVE)
 * [OpenDP (Open Source Detailed Placement)](https://github.com/sanggido/OpenDP)
 * [University of Minnesota / Intel (Automated Analog Layout)](https://github.com/ALIGN-analoglayout/ALIGN-public)
