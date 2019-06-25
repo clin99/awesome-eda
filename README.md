@@ -99,7 +99,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [Open-source FPGA Workflow](https://github.com/PrincetonUniversity/prga)
 * [OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA)
 * [Tools regarding on analog modeling, validation, and generation](https://github.com/StanfordVLSI/DaVE)
-* [Detailed Placement](https://github.com/sanggido/OpenDP)
+* [OpenDP (Open Source Detailed Placement)](https://github.com/sanggido/OpenDP)
 * [University of Minnesota / Intel (Automated Analog Layout)](https://github.com/ALIGN-analoglayout/ALIGN-public)
 * [Purdue (Parasitic Extraction)](https://github.com/purdue-onchip/gds2Para)
 * [University of Utah (Logic Synthesis)](https://github.com/LNIS-Projects/LSOracle)
