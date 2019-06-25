@@ -58,7 +58,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [Limbo](https://github.com/limbo018/Limbo)
 
 ### 2015
-* [OpenTimer](https://github.com/OpenTimer/OpenTimer)
+* [OpenTimer: A High-performance Timing Analysis Tool for VLSI Systems](https://github.com/OpenTimer/OpenTimer)
 * [Ophidian: Open-Source Library for Physical Design Research and Teaching.](https://gitlab.com/eclufsc/ophidian)
 * [OpenMPL](https://github.com/limbo018/OpenMPL)
  
