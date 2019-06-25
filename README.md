@@ -78,7 +78,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 
 
 ### 2018
-* [Lgraph](https://github.com/masc-ucsc/lgraph)
+* [Lgraph: Live Graph infrastructure for Synthesis and Simulation](https://github.com/masc-ucsc/lgraph)
 * [OpenPiton](https://github.com/PrincetonUniversity/openpiton)
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
 * [Parser-SPEF](https://github.com/OpenTimer/Parser-SPEF)
