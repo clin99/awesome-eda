@@ -101,7 +101,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [Tools regarding on analog modeling, validation, and generation](https://github.com/StanfordVLSI/DaVE)
 * [OpenDP (Open Source Detailed Placement)](https://github.com/sanggido/OpenDP)
 * [University of Minnesota / Intel (Automated Analog Layout)](https://github.com/ALIGN-analoglayout/ALIGN-public)
-* [Purdue (Parasitic Extraction)](https://github.com/purdue-onchip/gds2Para)
+* [gds2Para (Complete Integrated Circuit (IC) Layout Analysis from GDSII Design File to Parasitics Extraction)](https://github.com/purdue-onchip/gds2Para)
 * [University of Utah (Logic Synthesis)](https://github.com/LNIS-Projects/LSOracle)
 * [JITX (Intent Driven Board Design)](https://github.com/JITx-Inc/darpa-idea)
 * [The EPFL Combinational Benchmark Suite](https://github.com/lsils/benchmarks)
