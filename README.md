@@ -46,7 +46,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [Asynchronous Circuit Compiler](https://github.com/asyncvlsi/act)
 
 ### 2012
-* [PyMTL](https://github.com/cornell-brg/pymtl)
+* [PyMTL: Python-based hardware modeling framework](https://github.com/cornell-brg/pymtl)
 * [Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys)
 * [Verilog to Routing -- Open Source CAD Flow for FPGA Research](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 
