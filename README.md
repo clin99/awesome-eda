@@ -67,7 +67,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [A Modeling and Verification Platform for SoCs using ILAs](https://github.com/Bo-Yuan-Huang/ILAng)
 * [Mixed Hardware/Software Emulation](https://github.com/Xilinx/systemctlm-cosim-demo)
 * [SystemC TLM Interfaces](https://github.com/Xilinx/libsystemctlm-soc)
-* [Global Router](https://github.com/krzhu/BoxRouter)
+* [BoxRouter (Global Router)](https://github.com/krzhu/BoxRouter)
 
 ### 2017
 * [Rsync](https://github.com/RsynTeam/rsyn-x)
