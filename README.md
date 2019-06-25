@@ -1,5 +1,5 @@
 # Awesome Open Source EDA Projects
-> A curated list of awesome EDA open source projects. 
+> A curated list of EDA open source projects. 
 Please feel free to update this page through [submitting pull requests][GitHub pull requests] or [emailing me][email me].
 
 ## Table of Contents
