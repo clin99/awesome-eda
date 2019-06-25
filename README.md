@@ -47,7 +47,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 
 ### 2012
 * [PyMTL](https://github.com/cornell-brg/pymtl)
-* [Yosys](https://github.com/YosysHQ/yosys2012)
+* [Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys)
 * [Verilog to Routing -- Open Source CAD Flow for FPGA Research](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 
 ### 2013
