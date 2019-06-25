@@ -59,7 +59,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 
 ### 2015
 * [OpenTimer](https://github.com/OpenTimer/OpenTimer)
-* [Ophidian](https://gitlab.com/eclufsc/ophidian)
+* [Ophidian: Open-Source Library for Physical Design Research and Teaching.](https://gitlab.com/eclufsc/ophidian)
 * [OpenMPL](https://github.com/limbo018/OpenMPL)
  
 
