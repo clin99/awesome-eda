@@ -18,6 +18,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [2017](#2017) 
 * [2018](#2018) 
 * [2019](#2019) 
+* [2026](#2026) 
 * [Summary](#summary) 
 * [Reference](#reference)
 
@@ -125,6 +126,15 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 * [Utd-SystemVerilog](https://github.com/billswartz7/utd-SystemVerilog)
 
 
+### 2026
+* [agentic-eda](https://github.com/ZhangYangyi03/agentic-eda)
+* [assertforge](https://github.com/ZhangYangyi03/assertforge)
+* [covagent](https://github.com/ZhangYangyi03/covagent)
+* [eda-spine](https://github.com/ZhangYangyi03/eda-spine)
+* [qoragent](https://github.com/ZhangYangyi03/qoragent)
+
+
+
 ## Summary
 
 | Year | Number | Cumulative Number |
@@ -144,6 +154,8 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 | [2017](#2017) | 5  | 25 | 
 | [2018](#2018) | 28  | 53 | 
 | [2019](#2019) | 15  | 68 | 
+| [2026](#2026) | 5  | 73 | 
+
 
 
 ## Reference
